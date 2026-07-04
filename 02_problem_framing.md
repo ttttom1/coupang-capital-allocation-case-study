@@ -21,6 +21,19 @@ Included:
 - Public financial and investor evidence
 - Capital allocation posture and decision gates
 
+Related initiatives considered but not separately scored:
+
+- Rocket Now in Japan
+- Play
+- Fintech
+- Advertising products
+- Fulfillment and Logistics by Coupang (FLC)
+- Automation, AI, and supply-chain optimization
+- Share repurchases
+- Customer vouchers and data-incident recovery
+
+The full candidate universe and selection logic are documented in [appendix/candidate_universe.md](appendix/candidate_universe.md).
+
 Excluded:
 
 - Stock valuation

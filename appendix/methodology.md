@@ -5,12 +5,15 @@
 The case uses a hypothesis-driven consulting workflow:
 
 1. Define the decision question.
-2. Build a MECE issue tree.
-3. Establish the financial baseline.
-4. Separate temporary Product Commerce pressure from structural growth-investment drag.
-5. Map initiative-level evidence.
-6. Score options under one standard.
-7. Translate the scorecard into gates and recommendations.
+2. Identify the candidate universe from public sources.
+3. Build a MECE issue tree.
+4. Establish the financial baseline.
+5. Separate temporary Product Commerce pressure from structural growth-investment drag.
+6. Map initiative-level evidence.
+7. Score options under one standard.
+8. Translate the scorecard into gates and recommendations.
+
+The candidate universe and time-horizon rationale are documented in [candidate_universe.md](candidate_universe.md).
 
 ## Why A Scorecard Instead Of Full NPV
 

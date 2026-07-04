@@ -44,6 +44,7 @@ The case uses public filings and investor materials to build a consultant-style 
 | [05_option_scorecard.md](05_option_scorecard.md) | Scoring methodology, results, and sensitivity |
 | [06_final_recommendation.md](06_final_recommendation.md) | Final recommendation memo |
 | [07_board_deck_outline.md](07_board_deck_outline.md) | Board-style presentation outline |
+| [appendix/candidate_universe.md](appendix/candidate_universe.md) | Candidate universe, selection logic, and time horizon |
 | [appendix/source_ledger.md](appendix/source_ledger.md) | Public source list |
 | [appendix/methodology.md](appendix/methodology.md) | Methodology and scoring design |
 | [appendix/limitations.md](appendix/limitations.md) | Limitations and data needed for a stronger case |

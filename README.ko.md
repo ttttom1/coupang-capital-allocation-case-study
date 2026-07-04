@@ -44,6 +44,7 @@
 | [05_option_scorecard.md](05_option_scorecard.md) | scoring methodology, 결과, sensitivity |
 | [06_final_recommendation.md](06_final_recommendation.md) | 최종 recommendation memo |
 | [07_board_deck_outline.md](07_board_deck_outline.md) | board-style presentation outline |
+| [appendix/candidate_universe.md](appendix/candidate_universe.md) | 후보군, 선정 논리, 기간 설정 |
 | [appendix/source_ledger.md](appendix/source_ledger.md) | 공개 source list |
 | [appendix/methodology.md](appendix/methodology.md) | 방법론과 scoring design |
 | [appendix/limitations.md](appendix/limitations.md) | 한계와 추가로 필요한 데이터 |
