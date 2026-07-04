@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./README.md"><img alt="English README" src="https://img.shields.io/badge/README-English-2f6f9f"></a>
+  <a href="./README.ko.md"><img alt="한국어 README" src="https://img.shields.io/badge/README-%ED%95%9C%EA%B5%AD%EC%96%B4-2f6f9f"></a>
+</p>
+
 # Coupang Capital Allocation Case Study
 
 An independent public-data strategy case study evaluating Coupang's 2026-2028 capital allocation options across Product Commerce, Taiwan, Eats/WOW, and Farfetch.
